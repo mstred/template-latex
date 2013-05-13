@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Fri May 10 07:00:14 GMT-03:00 2013
+markTmpDer=true
+builderNum=2
+outputDir=
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=sbc-template.tex
+outputFile=sbc-template.pdf
+langSpell=en
+markDer=true
+srcDir=
