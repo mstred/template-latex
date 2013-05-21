@@ -1,4 +1,4 @@
 template-latex
 ==============
 
-A TeXclipse template project based on SBC article templates.
+A [TeXclipse] (http://texlipse.sourceforge.net/) template project based on SBC article templates.
